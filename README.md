@@ -41,5 +41,8 @@ cuboid.rotation_z = y % 360
 Simultaneously, the program draws the coordinate system, marking the lines as follows: X = 1 line, Y = 2 lines, and Z = 3 lines.
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=BNO085_Ursina_visualization&color=green)
+
+
 
 
